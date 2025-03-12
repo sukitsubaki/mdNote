@@ -1,4 +1,4 @@
-# mdNote - Simple Markdown Note-Taking App
+# mdNote - Simple Markdown Note-taking App
 
 ## Overview
 
