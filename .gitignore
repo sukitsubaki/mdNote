@@ -1,0 +1,23 @@
+# Xcode
+.idea/
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.swp
+
+# Swift Package Manager
+/.build/
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+
+# Archive
+*.xcarchive
+
+# SwiftPM
+Packages/
+
+# Other
+*.DS_Store
